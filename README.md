@@ -5,7 +5,7 @@ An Exploration: A Clustering Algorithm Capable of Participating in Backpropagati
 
 ## How to use
 
-After setting up the file paths, you can directly use the GPU or CPU to run the files named ~main.py in the gaussian_sample_clustering, image_recognition, and speaker_recognition folders.
+After setting up the file paths and downloading the data sets, you can directly use the GPU or CPU to run the files named ~main.py in the gaussian_sample_clustering, image_recognition, and speaker_recognition folders.
 
 "gaussian_sample_clustering" is used for basic validation of the clustering ability of PD-Selector. "image_recognition" involves loading PD-Selector onto a simple model to verify its participation in the model's training process. "speaker_recognition" is used to validate the application of PD-Selector in more complex scenarios.
 
